@@ -19,12 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Add committee member">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Edit acknowledgement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/work-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/work-3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,7 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1591368560951</updated>
       <workItem from="1591368562449" duration="5029000" />
-      <workItem from="1591375758957" duration="6840000" />
+      <workItem from="1591375758957" duration="7997000" />
+      <workItem from="1591397865909" duration="1902000" />
     </task>
     <task id="LOCAL-00001" summary="add debate team members">
       <created>1591370165327</created>
@@ -139,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591385886820</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Use higher resolution photo, adjust font">
+      <created>1591389664878</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591389664878</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Edit acknowledgement">
+      <created>1591390176159</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591390176159</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,16 +180,22 @@
     <MESSAGE value="modify acknowledgement and title" />
     <MESSAGE value="fix typo" />
     <MESSAGE value="Add committee member" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add committee member" />
+    <MESSAGE value="Use higher resolution photo, adjust font" />
+    <MESSAGE value="Edit acknowledgement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit acknowledgement" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591385888863">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591390178441">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591385888863" />
-    <state x="478" y="116" width="579" height="592" key="find.popup" timestamp="1591388711624">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591390178441" />
+    <state x="478" y="116" width="579" height="592" key="find.popup" timestamp="1591398173681">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="478" y="116" width="579" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1591388711624" />
+    <state x="478" y="116" width="579" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1591398173681" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1591398679464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591398679464" />
   </component>
 </project>
