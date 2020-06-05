@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="modify content">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="modify acknowledgement and title">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/staff.html" afterDir="false" />
     </list>
@@ -56,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591368560951</updated>
       <workItem from="1591368562449" duration="5029000" />
-      <workItem from="1591375758957" duration="3880000" />
+      <workItem from="1591375758957" duration="4216000" />
     </task>
     <task id="LOCAL-00001" summary="add debate team members">
       <created>1591370165327</created>
@@ -114,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591379718924</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="modify acknowledgement and title">
+      <created>1591380042935</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591380042935</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,12 +146,13 @@
     <MESSAGE value="adjust staff classification" />
     <MESSAGE value="update new index.html" />
     <MESSAGE value="modify content" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify content" />
+    <MESSAGE value="modify acknowledgement and title" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify acknowledgement and title" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591379724793">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591380044405">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591379724793" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591380044405" />
   </component>
 </project>
