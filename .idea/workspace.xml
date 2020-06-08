@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Add application web page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/honor.html" beforeDir="false" afterPath="$PROJECT_DIR$/honor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/staff.html" afterDir="false" />
+    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Add honor debaters">
+      <change beforePath="$PROJECT_DIR$/apply.html" beforeDir="false" afterPath="$PROJECT_DIR$/apply.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <workItem from="1591375758957" duration="7997000" />
       <workItem from="1591397865909" duration="6015000" />
       <workItem from="1591459015446" duration="2584000" />
-      <workItem from="1591648105163" duration="7268000" />
+      <workItem from="1591648105163" duration="7396000" />
     </task>
     <task id="LOCAL-00001" summary="add debate team members">
       <created>1591370165327</created>
@@ -211,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591654607193</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add honor debaters">
+      <created>1591656375562</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591656375562</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,17 +254,18 @@
     <MESSAGE value="Add debate team member" />
     <MESSAGE value="Adjust navigation bar" />
     <MESSAGE value="Add application web page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add application web page" />
+    <MESSAGE value="Add honor debaters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add honor debaters" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591488125070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591488125070" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591654617889">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591656377908">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591654617889" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591656377908" />
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591408201312">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
