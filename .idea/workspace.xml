@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Edit honor navigation bar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/staff.html" afterDir="false" />
-    </list>
+    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Edit sponsor jpg location" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <workItem from="1591397865909" duration="6015000" />
       <workItem from="1591459015446" duration="2584000" />
       <workItem from="1591648105163" duration="9199000" />
-      <workItem from="1591667650246" duration="1303000" />
+      <workItem from="1591667650246" duration="1624000" />
     </task>
     <task id="LOCAL-00001" summary="add debate team members">
       <created>1591370165327</created>
@@ -233,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591659294931</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Edit staff navigation bar &amp; sponsor">
+      <created>1591669180153</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1591669180153</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Edit sponsor jpg location">
+      <created>1591669251322</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1591669251322</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +284,9 @@
     <MESSAGE value="Add honor debaters" />
     <MESSAGE value="Edit apply page section name" />
     <MESSAGE value="Edit honor navigation bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit honor navigation bar" />
+    <MESSAGE value="Edit staff navigation bar &amp; sponsor" />
+    <MESSAGE value="Edit sponsor jpg location" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit sponsor jpg location" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591488125070">
