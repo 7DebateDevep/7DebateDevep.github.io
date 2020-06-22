@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0053)https://courses.engr.illinois.edu/cs225/sp2020/staff/ -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script type="text/javascript" async="" src="./staff_files/analytics.js.download"></script><script async="" src="./staff_files/js"></script>
@@ -78,12 +77,15 @@
               </li>
               <li class="nav-item">
                   <a class="nav-link" href="apply.html">Apply</a>
-              </li>、
+              </li>
               <li class="nav-item">
                   <a class="nav-link" href="http://community.7debate.club">Forum</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link" href="https://gradescope.com">Learn</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="schedule.html">Schedule</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link" href="http://vpn.7debate.club">VPN</a>
@@ -93,56 +95,55 @@
               </li>
           </ul>
       </div>
-</nav>
-<script type="text/javascript" src="./staff_files/fuse.js.download"></script>
-<script type="text/javascript">
-    const list = [
-        {
-            'title': "Home", 'url': "https://home.7debate.club"
-        },
-        {
-            'title': "Forum", 'url': "http://community.7debate.club"
-        },
-        {
-            'title': "Learn", 'url': "https://gradescope.com"
-        },
-        {
-            'title': "VPN", 'url': "http://vpn.7debate.club"
-        },
-        {
-            'title': "About", 'url': "http://7debate.club"
-        },
-    ];
-    
-   
+  </nav>
+    <script type="text/javascript" src="./staff_files/fuse.js.download"></script>
+    <script type="text/javascript">
+        const list = [
+            {
+                'title': "Home", 'url': "https://home.7debate.club"
+            },
+            {
+                'title': "Forum", 'url': "http://community.7debate.club"
+            },
+            {
+                'title': "Learn", 'url': "https://gradescope.com"
+            },
+            {
+                'title': "VPN", 'url': "http://vpn.7debate.club"
+            },
+            {
+                'title': "About", 'url': "http://7debate.club"
+            },
+        ];
 
-  $(() => {
-  $(this).keypress(enterPress)
-})
 
-  function enterPress(event){
-     var keyCode = (window.event) ? event.which : event.keyCode;
-    if(keyCode === 13){
-      event.preventDefault();
-      var firstChoice = $("#search-dropdown-content").children()[0];
-      if(firstChoice){ firstChoice.click(); }
-    }
-  }
 
-</script>
+      $(() => {
+      $(this).keypress(enterPress)
+    })
 
-  <div class="container py-4">
+      function enterPress(event){
+         var keyCode = (window.event) ? event.which : event.keyCode;
+        if(keyCode === 13){
+          event.preventDefault();
+          var firstChoice = $("#search-dropdown-content").children()[0];
+          if(firstChoice){ firstChoice.click(); }
+        }
+      }
+
+    </script>
+
+    <div class="container py-4">
     <style>
-.staff-grid {
+        .staff-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     grid-gap: 20px;
     align-items: stretch;
 }
+    </style>
 
-</style>
-
-<div class="container-fluid">
+    <div class="container-fluid">
 
     <h3 class="display-5 mt-5">Top Speaker Honor</h3>
     <div class="staff-grid">
@@ -309,8 +310,5 @@
 
 </div>
 
-</div>
-
-
-
+    </div>
 </body></html>

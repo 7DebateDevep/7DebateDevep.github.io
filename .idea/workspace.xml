@@ -19,9 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Edit sponsor jpg location in apply page">
+    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="change forum and learn url">
+      <change afterPath="$PROJECT_DIR$/schedule.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020-national.html" beforeDir="false" afterPath="$PROJECT_DIR$/2020-national.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apply.html" beforeDir="false" afterPath="$PROJECT_DIR$/apply.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/honor.html" beforeDir="false" afterPath="$PROJECT_DIR$/honor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/staff.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../首页 - HD 专注留学生线上辅导_files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
@@ -65,6 +71,8 @@
       <workItem from="1591667650246" duration="2250000" />
       <workItem from="1591707153550" duration="274000" />
       <workItem from="1592076285878" duration="313000" />
+      <workItem from="1592769472512" duration="893000" />
+      <workItem from="1592865100574" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="add debate team members">
       <created>1591370165327</created>
@@ -255,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591669346079</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="change forum and learn url">
+      <created>1592769762684</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1592769762684</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +289,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add debate team members" />
     <MESSAGE value="add debate team developer" />
     <MESSAGE value="add committee member and debate team member" />
     <MESSAGE value="adjust font size" />
@@ -299,25 +313,28 @@
     <MESSAGE value="Edit staff navigation bar &amp; sponsor" />
     <MESSAGE value="Edit sponsor jpg location" />
     <MESSAGE value="Edit sponsor jpg location in apply page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit sponsor jpg location in apply page" />
+    <MESSAGE value="change forum and learn url" />
+    <option name="LAST_COMMIT_MESSAGE" value="change forum and learn url" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591488125070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591488125070" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591669347682">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1592769765825">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591669347682" />
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592769765825" />
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591408201312">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1591408201312" />
-    <state x="478" y="116" width="579" height="592" key="find.popup" timestamp="1591398173681">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="478" y="122" width="579" height="621" key="find.popup" timestamp="1592769725099">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="478" y="116" width="579" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1591398173681" />
+    <state x="478" y="122" width="579" height="621" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1592769725099" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1591398679464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
