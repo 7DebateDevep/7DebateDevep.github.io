@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Add apply button on index.html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Change apply button color" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +66,7 @@
       <workItem from="1592865100574" duration="4460000" />
       <workItem from="1592943891838" duration="485000" />
       <workItem from="1592966393975" duration="1090000" />
-      <workItem from="1593695790563" duration="2154000" />
+      <workItem from="1593695790563" duration="3043000" />
     </task>
     <task id="LOCAL-00001" summary="add debate team members">
       <created>1591370165327</created>
@@ -324,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593696111296</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Change apply button color">
+      <created>1593700445401</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1593700445401</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +346,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add committee member" />
     <MESSAGE value="Use higher resolution photo, adjust font" />
     <MESSAGE value="Edit acknowledgement" />
     <MESSAGE value="Add honor section" />
@@ -368,17 +370,18 @@
     <MESSAGE value="Add setup.html" />
     <MESSAGE value="Add estimate dates in schedule.html" />
     <MESSAGE value="Add apply button on index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add apply button on index.html" />
+    <MESSAGE value="Change apply button color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change apply button color" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591488125070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591488125070" />
-    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1592966452270">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1593700512320">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591669347682" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1593700512320" />
     <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592966452270" />
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591408201312">
       <screen x="0" y="0" width="1536" height="824" />
