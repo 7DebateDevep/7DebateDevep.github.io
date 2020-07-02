@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Modify apply.html" />
+    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="Add estimate dates in schedule.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +67,7 @@
       <workItem from="1592769472512" duration="893000" />
       <workItem from="1592865100574" duration="4460000" />
       <workItem from="1592943891838" duration="485000" />
+      <workItem from="1592966393975" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="add debate team members">
       <created>1591370165327</created>
@@ -304,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592944091223</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Add estimate dates in schedule.html">
+      <created>1592966440792</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1592966440792</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +333,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="modify acknowledgement and title" />
     <MESSAGE value="fix typo" />
     <MESSAGE value="Add committee member" />
     <MESSAGE value="Use higher resolution photo, adjust font" />
@@ -348,18 +357,19 @@
     <MESSAGE value="Fix typo in schedule.html" />
     <MESSAGE value="Modify apply.html" />
     <MESSAGE value="Add setup.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add setup.html" />
+    <MESSAGE value="Add estimate dates in schedule.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add estimate dates in schedule.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591488125070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591488125070" />
-    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1592944093146">
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1592966452270">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591669347682" />
-    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592944093146" />
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1592966452270" />
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591408201312">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
