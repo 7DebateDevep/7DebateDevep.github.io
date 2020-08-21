@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="update schedule.html page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="12e7ecfb-ceaf-4fea-ab6a-8bbf3447f995" name="Default Changelist" comment="update schedule.html page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +69,7 @@
       <workItem from="1593695790563" duration="3043000" />
       <workItem from="1593733286957" duration="766000" />
       <workItem from="1594489679622" duration="2982000" />
+      <workItem from="1595343364133" duration="882000" />
     </task>
     <task id="LOCAL-00001" summary="add debate team members">
       <created>1591370165327</created>
